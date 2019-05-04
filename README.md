@@ -1,3 +1,3 @@
-# jvmiyxnv.github
+# HappyFox requirement solution
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/github/jvmiyxnv)
+[Click to open](https://happyfox-ui-solution.herokuapp.com/board)
